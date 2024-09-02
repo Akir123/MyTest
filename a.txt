@@ -1,4 +1,10 @@
 Hello
 
+<<<<<<< HEAD
 no 
 yes
+=======
+hi
+bye 
+no
+>>>>>>> 2cc6f6620507751ad8a317dc7edc632e45cb5070
